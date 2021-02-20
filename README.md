@@ -41,15 +41,19 @@
 
 - Marking of Honours and M. students dissertations
 
-- Lecturing Honour students and medical registrars in bioinformatics 
+- Lecturing Honour students and medical registrars in bioinformatics (http://vdeb.hpc.ufs.ac.za/)
 
 
 
 #### Working experience
 
+M.Sc in biochemistry with experience in molecular biology, including nucleic acid extraction, polymerase chain reaction and designing of PCR primers, recombinant DNA techniques, cloning, site directed mutagenesis and recombinant protein expression.
 
+Proficient in the R statistical programming language, python programming language and bash scripting.  Comfortable with data cleaning and wrangling using both R or python pandas as well as data representation in both R and python.
 
+Next generation sequencing data analysis including *de novo* assembly as well as mapping applications such as SNP discovery.  
 
+https://github.com/ArmandBester/
 
 
 
@@ -77,9 +81,7 @@
 - **Bester, P.A**., Litthauer, D., Piater, L.A., and van Heerden, E. (2010). A thioredoxin reductase-like protein from the thermophile, Thermus scotoductus SA-01, displaying iron reductase activity. FEMS Microbiology Letters 302, 182 -188.
 - Van Heerden, E, Opperman, D.J., **Bester, P.A**., Van Marwijk, J., Cason, E.D., Litthauer, D., Piater, L.A. and Onstott, T.C. (2008). Metabolic promiscuity from the deep subsurface: a story of Survival or Superiority. Instruments, Methods, and Missions for Astrobiology XI. Edited by Hoover, Richard B.; Levin, Gilbert V.; Rozanov, Alexei Y.; Davies, Paul C. Proceedings of the SPIE, Volume 7097, pp. 70970S-70970S-12.
 
-
-
-### Talks (International)
+#### Talks (International)
 
 - **PA Bester**, A De Vries, SJPK Riekert, K Steegen, G van Zyl, D. Goedhals.  PhyloPi: an affordable, purpose built phylogenetic pipeline for the HIV drug resistance testing facility.  27th International Workshop on HIV Drug Resistance and Treatment Strategies.  22-23 October 2018.
 - Lippman-Pipke, J., Erzinger, J., Zimmer, M., Kujawa, C., Boettcher, M.S., Van Aswegen, G., Moller, H., Van Heerden, E., **Bester, A**., Reches, Z. Long-term, on-site borehole monitoring of gases released from an active fault system at 3.6km depth, TauTona Gold Mine, South Africa. 2009 AGU Fall Meeting, 14-18 December, San Francisco, California.
@@ -88,7 +90,7 @@
 - Lippman-Pipke, J., Erzinger, J., Zimmer, M., Kujawa, C., Van Heerden, E., **Bester, A**., Moller, H., Boettcher, M. and Reches, Z. Direct observation of blasting triggered geogas transport through an inactive fault system at3.6km depth, Tautona gold mine, SA National meeting on ICDP/IODP-projcts in Hannover, Germany (March, 12-14th, 2008).
 - G. Lacrampe-Couloume, Van Heerden, E., Piater, L.A., Opperman, D.J., **Bester, A**., Lippman-Pipke, J., Slater, G.F., Ontstott, T.C., and B. Sherwood Lollar. Microbial methanogenesis in ancient groundwaters in Witwatersrand Basin: The timing of deep subsurface life. ABSCICON 2008. The 5th Astrobiology Science C*onference* April 14 - 17, 2008. Santa Clara Convention Center Santa Clara, California, USA
 
-### Posters (International)
+#### Posters (International)
 
 - **PA Bester**, A De Vries, SJPK Riekert, K Steegen, G van Zyl, D. Goedhals.  PhyloPi: an affordable, purpose built phylogenetic pipeline for the HIV drug resistance testing facility.  27th International Workshop on HIV Drug Resistance and Treatment Strategies.  22-23 October 2018.
 - D. Goedhals, **P. A. Bester**, J. T. Paweska, R. Swanepoel, F. J. Burt.  Next generation sequencing of southern African Crimean-Congo haemorrhagic fever virus isolates.  16th ICID, Cape Town, South Africa, 2-5 April 2014.
@@ -96,11 +98,16 @@
 - Lippman-Pipke, J., Erzinger, J., Zimmer, M., Kujawa, C., Van Heerden, E., **Bester, A**. Moller, H., Boettcher, M., and Reches, E. Direct observation of blasting triggered geogas transport through an inactive fault system at 3.6 km depth, TauTona gold mine. Poster presentation. SA National meeting on ICDP/IODP-projects, 12 – 14 March 2008, Hannover, Germany.
 - Van Heerden, E., Opperman, D.J., **Bester, A.**, Möller, C., Litthauer, D., and Parro, V. Metal reductases from the South African Deep Subsurface. International conference - Thermophiles 2007. September 24-27, Bergen. Norway
 
+#### Talks (National)
 
+- **Bester, P.A**., Litthauer, D., Piater, L.A. and Van Heerden, E. Functional and Structural Analysis of a Ferric Reductase. SASBMB 2010 - 22nd Congress of the South African Society for Biochemistry and Molecular Biology. Bloemfontein, South Africa. 17-20 January 2010.
+- Lippmann-Pipke, Erzinger, J.,, Zimmer, M., Kujawa, C., Van Heerden, E., Litthauer, D., **Bester, A**., Niedermann, S., Boettcher, M., van Aswegen, G., Moller, H., Heesakkers, V. and Reches, Z. Striking correlation between geogas data and mining induced seismicity in the world’s deepest gas lab, TauTona Gold Mine, SA. Poster presentation. 5th Inkaba ye Africa Scientific Workshop, 22 - 23 October 2007, Wild Coast Sun, South Africa.
+- **Bester, P.A**. , Piater, L.A. and van Heerden, E. Ubiquitous nature of iron reductase from Thermus scotoductus SA-01. Oral presentation: Bio-08, January 21 - 25 2008, Grahamstown, South Africa.
 
+#### Posters (National)
 
+- **Bester, P.A**., Piater, L.A., van Heerden, E., and Onstott, T.C. (2006). The microbial diversity, chemical and physical properties in fissure water of the deep terrestrial subsurface of the Witwatersrand Basin, South Africa. In: Abstracts of the 14th Biennial Congress of the South African Society for Microbiology, 9-12 April 2006, Pretoria, South Africa, P173.
+- **Bester, P.A**., Piater, L.A., van Heerden, E., and Onstott, T.C. (2006). The microbial diversity, chemical and physical properties in fissure water of the deep terrestrial subsurface of the Witwatersrand Basin, South Africa. Abstracts of the SASM *XIX**th* Conference, 9-12 April 2006, Pretoria, South Africa.
 
-
-
-
+- **Bester, P.A**., Piater, L.A., van Heerden, E. and Onstott, T.C. (2005). The microbial diversity, chemical and physical properties in fissure water of the deep terrestrial subsurface of the Witwatersrand Basin, South Africa. In: Abstracts of the *SASBMB XIX**th* Conference, 16-20 January 2005, Stellenbosch, South Africa
 
