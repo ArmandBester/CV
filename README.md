@@ -1,12 +1,13 @@
 # <center>*Curriculum Vitae*</center>
+
 ## <center>Phillip <u>Armand</u> Bester</center>
 
-| Email addresses                                              | Online presence                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Email addresses                                              | Online presence                                                 |
+| ------------------------------------------------------------ | --------------------------------------------------------------- |
 | <img align="left" src="media/email.png" style="zoom:21%;" /> | <img align="centre" src="media/qrcode.png" style="zoom:30%;" /> |
 
 | Personal details |                       |
-| :--------------- | :-------------------- |
+|:---------------- |:--------------------- |
 | Surname          | Bester                |
 | Names            | Phillip <u>Armand</u> |
 | Identity no      | 8112235032088         |
@@ -17,7 +18,7 @@
 
 ### Education
 
-- **2007 M.Sc**  	Distinction UFS.  Department of Biotechnology  
+- **2007 M.Sc**      Distinction UFS.  Department of Biotechnology  
 
 - **2004 B.Sc.**      Honours  UFS. Biochemistry  
 
@@ -30,10 +31,8 @@
 - **2004  - 2010**    Practical Assistant for Undergraduate practicals (UFS)    
 - **2005**                 Part-time Lecturer (Central University of Technology)        
 - **2007 - 2010**     Research Assistant for the National Earthquake Laboratory of South African Mines 
--  **2011- 2015**     Assistant Researcher.  Development and application of a HIV resistance genotyping assay. Data analysis and management of collected genotypes and clinical information. 
--  **2015 - current**  Medical scientist.  Virology, NHLS Universitas, Bloemfontein 
-
-
+- **2011- 2015**     Assistant Researcher.  Development and application of a HIV resistance genotyping assay. Data analysis and management of collected genotypes and clinical information. 
+- **2015 - current**  Medical scientist.  Virology, NHLS Universitas, Bloemfontein 
 
 #### Teaching experience
 
@@ -43,23 +42,23 @@
 
 - Lecturing Honour students and medical registrars in bioinformatics (http://vdeb.hpc.ufs.ac.za/)
 
-
-
 #### Working experience
 
-M.Sc in biochemistry with experience in molecular biology, including nucleic acid extraction, polymerase chain reaction and designing of PCR primers, recombinant DNA techniques, cloning, site directed mutagenesis and recombinant protein expression.
+M.Sc in biochemistry with experience in molecular biology, including nucleic acid extraction, polymerase chain reaction and designing of PCR primers, recombinant DNA techniques, cloning, site directed mutagenesis,  DNA sequencing, recombinant protein expression and enzyme kinetics.
+
+In my time working in virology I have developed an HIV protease and reverse transcriptase drug resistance assay which I also validated in terms of sensitivity, specificity, accuracy and precision.  I am also a member of the national NHLS HIV drug resistance subcommittee where we meet once a quarter to discuss operational, QA/QC, clinical and research related to HIV drug resistance.  This allowed me to be part of this assays costing analysis.  
+
+As our HIV sequence database grew the need for more sophisticated phylogenetics arose.  With the help of colleagues, I developed a phylogenetic pipeline which we published in PLOS ONE (PhyloPi: An affordable, purpose built phylogenetic pipeline for the HIV drug resistance testing facility).  This also allowed us to reach out to the public in the form of a four-part blog post.  This is available online on RStudio's blog, rviews (https://rviews.rstudio.com/2019/04/30/analysing-hiv-pandemic-part-1/).  PhyloPi is now an integrated part of QA/QC in the Universitas and Charlotte Maxeke drug resistance testing facilities with plans to roll out to the remainder of the facilities as well early this year.  Not only does this provide valuable spot checks, but has identified numerous sample swaps originating from health care facilities that otherwise would not have been noticed.
+
+
+
+
 
 Proficient in the R statistical programming language, python programming language and bash scripting.  Comfortable with data cleaning and wrangling using both R or python pandas as well as data representation in both R and python.
 
 Next generation sequencing data analysis including *de novo* assembly as well as mapping applications such as SNP discovery.  
 
 https://github.com/ArmandBester/
-
-
-
-
-
-
 
 ### Academic
 
@@ -109,7 +108,7 @@ https://github.com/ArmandBester/
 #### Posters (National)
 
 - **Bester, P.A**., Piater, L.A., van Heerden, E., and Onstott, T.C. (2006). The microbial diversity, chemical and physical properties in fissure water of the deep terrestrial subsurface of the Witwatersrand Basin, South Africa. In: Abstracts of the 14th Biennial Congress of the South African Society for Microbiology, 9-12 April 2006, Pretoria, South Africa, P173.
+
 - **Bester, P.A**., Piater, L.A., van Heerden, E., and Onstott, T.C. (2006). The microbial diversity, chemical and physical properties in fissure water of the deep terrestrial subsurface of the Witwatersrand Basin, South Africa. Abstracts of the SASM *XIX**th* Conference, 9-12 April 2006, Pretoria, South Africa.
 
 - **Bester, P.A**., Piater, L.A., van Heerden, E. and Onstott, T.C. (2005). The microbial diversity, chemical and physical properties in fissure water of the deep terrestrial subsurface of the Witwatersrand Basin, South Africa. In: Abstracts of the *SASBMB XIX**th* Conference, 16-20 January 2005, Stellenbosch, South Africa
-
