@@ -34,13 +34,25 @@
 - **2011- 2015**     Assistant Researcher.  Development and application of a HIV resistance genotyping assay. Data analysis and management of collected genotypes and clinical information. 
 - **2015 - current**  Medical scientist.  Virology, NHLS Universitas, Bloemfontein 
 
-#### Teaching experience
+#### Teaching experience at NHLS/UFS
 
 - Main and co- supervision for Honours and M. students 
+  
+  - Main supervisor for Honours student developing an HIV integrase drug resistance assay.
+  
+  - Equally shared supervisor for two Honour students on: A simple and rapid approach to prepare Sindbis and West Nile viral RNA controls for differentiation between positive samples and laboratory contamination as shown in the publication list.
+  
+  - Co-supervisor for M. Med student looking at the influence of volumes on dry blood spot card for infant HIV diagnostics.
+  
+  - Co-supervision of M. Med student looking at HBV drug resistance and viral loads
 
 - Marking of Honours and M. students dissertations
+  
+  - Marking of M. Sc thesis for Prof Gert van Zyl, Stellenbosch University
 
 - Lecturing Honour students and medical registrars in bioinformatics (http://vdeb.hpc.ufs.ac.za/)
+  
+  
 
 #### Academic background
 
@@ -48,63 +60,60 @@ M.Sc in biochemistry with experience in molecular biology, including nucleic aci
 
 #### Working experience
 
-In my time working in virology I have developed an HIV protease and reverse transcriptase drug resistance assay which I also validated in terms of sensitivity, specificity, accuracy and precision.  I am also a member of the national NHLS HIV drug resistance subcommittee where we meet once a quarter to discuss operational, QA/QC, clinical and research related to HIV drug resistance.  This allowed me to be part of this assays costing analysis.  We are subscribed to the QCMD EQA program for HIV drug resitance where we always score above 98% and 99.4% in 2020.
+In my time working in virology I have developed an HIV protease and reverse transcriptase drug resistance assay which I also validated in terms of sensitivity, specificity, accuracy and precision.  I am also a member of the national NHLS HIV drug resistance subcommittee where we meet once a quarter to discuss operational, QA/QC, clinical and research related to HIV drug resistance.  This allowed me to be part of this assays costing analysis.  We are subscribed to the QCMD EQA program for HIV drug resitance where we always score above 98% and 99.4% in 2020.  I was also involved in getting this assay SANAS acredited and maintaining accreditation with proper GLP.  I am the author of our inhouse HIV drug resistance SOP and do training and competancy evaluation on staff.
 
 As our HIV sequence database grew the need for more sophisticated phylogenetics arose.  With the help of colaborators, I developed a phylogenetic pipeline which we published in PLOS ONE (PhyloPi: An affordable, purpose built phylogenetic pipeline for the HIV drug resistance testing facility).  This also allowed us to reach out to the public in the form of a four-part blog post.  This is available online on RStudio's blog, rviews (https://rviews.rstudio.com/2019/04/30/analysing-hiv-pandemic-part-1/).  PhyloPi is now an integrated part of QA/QC in the Universitas and Charlotte Maxeke drug resistance testing facilities with plans to roll out to the remainder of the facilities as well early this year.  Not only does this provide valuable spot checks, but has identified numerous sample swaps originating from health care facilities that otherwise would not have been noticed.
+
+The ongoing pandemic is having devastating consequences around the world.  However, it has challenged the discipline's workforce to levels previously not tested.  I was entrusted with the sars-covid-2 diagnostics in the verification of the various assays, operations, QC/QA, procurement and workflows.  This also includes training of staff and competency evaluation. I have also trained staff at NHLS Virology in Kimberly.
+
+In any laboratory things can go wrong and especially in diagnostic facilities can have profound implications if it goes unnoticed. In the time working at virology I have plenty of experience in noticing problems, troubleshooting and root cause analysis. 
+
+My python and R experience helped in the analysis and creation of assay evaluation reports.  I have created a script that accepts data in a spreadsheet and calculates various metrics of agreement and other statistics.  The well-cited python package, statsmodels, was used to do the statistical calculations.   I have created numerous reports for pathologists to sign off.
 
 
 
 #### Ongoing and recent academic projects (2020-2021)
 
-I am involved in various projects where I co-manage research projects with one or more of our pathologists.
+I am involved in various projects where I co-manage research projects with one or more of our pathologists.  In many of the projects and research outputs listed below, I was heavily involved in data analysis and/or bio-informatics.
 
 ##### HBV
 
 We are in collaboration with an Oxford group with a few Hepatitis B virus projects. One of our projects was a systematic review of HBV seroepidemiology in Africa.  Here I was involved in visualizations one of which is available at https://hbv-geo.shinyapps.io/oxafricahbv/.
 
-
-
 We are analysing retrospective data from the NHLS Central Data Warehouse with the main focus on HBV infection stratified by other factors such as HIV status, gender, age and health outcomes.
 
-
-Together with structural biologists, we are looking at HBV reverse transcriptase expression of domains with the aim of crystalizing and structure determination.
+Together with structural biologists, we are looking at HBV reverse transcriptase expression of domains with the aim of crystallising and structure determination.
 Co-supervision of an M. Med student looking at HBV, viral loads, tenofovir resistance and the correlation with HIV status and viral loads.
 
 ##### HIV
 
 Co-supervision M. Med with the aim of determining the effect of volume on dry blood spot cards used for infant HIV diagnosis. (M. Med awarded)
 
-
-
 Co-supervision of HIV drug resistance mutations K65R and M184V to determine if these mutations can reside on the same virus by using a cloning strategy. This was part of an HPCSA portfolio for an intern.
-
-
 
 Consultant on PhD project looking at mother to child HIV transmission and drug resistance profiles (PhD awarded).
 
 ##### SARS-COV2
 
-Next generation sequenceing and survailance of SARS-COV2 genomes where I am involved in samples selection and genome consensus generation and quality control.
-
-
+Next generation sequenceing and survailance of SARS-COV2 genomes where I am involved in samples selection, bio-informatics and genome consensus generation and quality control.
 
 Seroepidemiology from HIV viral load samples.
 
-
-
 ##### Diabetes type 2
 
-Co-supervisor for genetics M. Sc student looking at epigenetics involvement. (M.Sc awarded)
+Co-supervisor for genetics M. Sc student looking at epigenetics involvement and type 2 Diabetes. (M.Sc awarded)
 
 
 
-#### Readisness in a  world of data
+#### Readiness in a  world of data
 
 Proficient in the R statistical programming language, python programming language and bash scripting.  Proficient with data cleaning and wrangling using both R or python pandas as well as data representation in both R and python.
 
 Next generation sequencing data analysis including *de novo* assembly as well as mapping applications such as SNP discovery.  
 
 https://github.com/ArmandBester/
+
+I constantly try to better my coding ability and statistical knowledge with the focus on problem solving in the real world.  I enrol frequently in online training courses like Udemy and freeCodeCamp.
 
 
 
