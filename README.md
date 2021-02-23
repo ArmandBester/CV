@@ -42,9 +42,11 @@
 
 - Lecturing Honour students and medical registrars in bioinformatics (http://vdeb.hpc.ufs.ac.za/)
 
-#### Working experience
+#### Academic background
 
-M.Sc in biochemistry with experience in molecular biology, including nucleic acid extraction, polymerase chain reaction and designing of PCR primers, recombinant DNA techniques, cloning, site directed mutagenesis,  DNA sequencing, recombinant protein expression and enzyme kinetics.
+M.Sc in biochemistry with experience in molecular biology, including nucleic acid extraction, polymerase chain reaction and designing of PCR primers, recombinant DNA techniques, cloning, site directed mutagenesis, DNA sequencing, recombinant protein expression and enzyme kinetics.
+
+#### Working experience
 
 In my time working in virology I have developed an HIV protease and reverse transcriptase drug resistance assay which I also validated in terms of sensitivity, specificity, accuracy and precision.  I am also a member of the national NHLS HIV drug resistance subcommittee where we meet once a quarter to discuss operational, QA/QC, clinical and research related to HIV drug resistance.  This allowed me to be part of this assays costing analysis.  We are subscribed to the QCMD EQA program for HIV drug resitance where we always score above 98% and 99.4% in 2020.
 
@@ -52,13 +54,59 @@ As our HIV sequence database grew the need for more sophisticated phylogenetics 
 
 
 
+#### Ongoing and recent academic projects (2020-2021)
+
+I am involved in various projects where I co-manage research projects with one or more of our pathologists.
+
+##### HBV
+
+We are in collaboration with an Oxford group with a few Hepatitis B virus projects. One of our projects was a systematic review of HBV seroepidemiology in Africa.  Here I was involved in visualizations one of which is available at https://hbv-geo.shinyapps.io/oxafricahbv/.
 
 
-Proficient in the R statistical programming language, python programming language and bash scripting.  Comfortable with data cleaning and wrangling using both R or python pandas as well as data representation in both R and python.
+
+We are analysing retrospective data from the NHLS Central Data Warehouse with the main focus on HBV infection stratified by other factors such as HIV status, gender, age and health outcomes.
+
+
+Together with structural biologists, we are looking at HBV reverse transcriptase expression of domains with the aim of crystalizing and structure determination.
+Co-supervision of an M. Med student looking at HBV, viral loads, tenofovir resistance and the correlation with HIV status and viral loads.
+
+##### HIV
+
+Co-supervision M. Med with the aim of determining the effect of volume on dry blood spot cards used for infant HIV diagnosis. (M. Med awarded)
+
+
+
+Co-supervision of HIV drug resistance mutations K65R and M184V to determine if these mutations can reside on the same virus by using a cloning strategy. This was part of an HPCSA portfolio for an intern.
+
+
+
+Consultant on PhD project looking at mother to child HIV transmission and drug resistance profiles (PhD awarded).
+
+##### SARS-COV2
+
+Next generation sequenceing and survailance of SARS-COV2 genomes where I am involved in samples selection and genome consensus generation and quality control.
+
+
+
+Seroepidemiology from HIV viral load samples.
+
+
+
+##### Diabetes type 2
+
+Co-supervisor for genetics M. Sc student looking at epigenetics involvement. (M.Sc awarded)
+
+
+
+#### Readisness in a  world of data
+
+Proficient in the R statistical programming language, python programming language and bash scripting.  Proficient with data cleaning and wrangling using both R or python pandas as well as data representation in both R and python.
 
 Next generation sequencing data analysis including *de novo* assembly as well as mapping applications such as SNP discovery.  
 
 https://github.com/ArmandBester/
+
+
 
 ### Academic
 
@@ -70,6 +118,9 @@ https://github.com/ArmandBester/
 - Leholonolo Mathengtheng, Dominique Goedhals, **Phillip A. Bester**, Jacqueline Goedhals, Felicity J. Burt.  Persistence of Crimean- Congo Hemorrhagic Fever  Virus RNA. 2020.  Emerging Infectious Diseases, 26(2), 385-387. https://dx.doi.org/10.3201/eid2602.191460.
 - Micah Dimaculangan, Siewert C. Wiid, Phillip A. Bester, Tumelo R. Sekee, Felicity J. Burt.  A simple and rapid approach to prepare Sindbis and West Nile viral RNA controls for differentiation between positive samples and laboratory contamination. 2020. Journal of Virological Methods (278).  https://doi.org/10.1016/j.jviromet.2020.113822.
 - Zhao, Z, Heideman, N, Grobler, P, Jordaan, **A, Bester**, P, Hofmeyr, MD. Unraveling the diversification and systematic puzzle of the highly polymorphic *Psammobates tentorius* (Bell, 1828) complex (Reptilia: Testudinidae) through phylogenetic analyses and species delimitation approaches. *J Zool Syst Evol Res*. 2020; 58: 308– 326. https://doi.org/10.1111/jzs.12338
+- McNaughton AL,  Lourenço J, **Bester PA**, Mokaya J, Lumley SF, Obolski U, Forde D, Maponga TG, Katumba KR, Goedhals D, Gupta S, Seeley J, Newton R, Ocama P, 
+  Matthews PC. Hepatitis B virus seroepidemiology data for Africa: Modelling intervention strategies based on a systematic review and meta-analysis. PLoS Med. 2020 Apr 21;17(4):e1003068. doi: 
+  10.1371/journal.pmed.1003068. PMID: 32315297; PMCID: PMC7173646. 
 - **Phillip Armand Bester**,  Andrie De Vries, Stephanus Riekert, Kim Steegen,  Gert van Zyl, Dominique Goedhals.  PhyloPi: An affordable, purpose built phylogenetic pipeline for the HIV drug resistance testing facility. 2019.  PloS ONE.  https://doi.org/10.1371/journal.pone.0213241
 - Sabeehah Vawda, Dominique Goedhals, **Phillip Armand Bester**, Felicity Burt.  Seroepidemiologic Survey of Crimean-Congo Hemorrhagic Fever Virus in Selected Risk Groups, South Africa. July 2018. Emerging Infectious Diseases 24(7):1360-1363.   10.3201/eid2407.172096
 - Riaz Seedat, C. E. Combrink, **Phillip Armand Bester**, Felicity Burt.  Determination of the complete genome and functional analysis of HPV6 isolate VBD19/10 from a patient with aggressive recurrent respiratory papillomatosis.      March 201. Epidemiology and Infection -1(10):1-8.  DOI: 10.1017/S0950268816000388
