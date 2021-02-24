@@ -2,9 +2,9 @@
 
 ## <center>Phillip <u>Armand</u> Bester</center>
 
-| Email addresses                                              | Online presence                                                 |
-| ------------------------------------------------------------ | --------------------------------------------------------------- |
-| <img align="left" src="media/email.png" style="zoom:21%;" /> | <img align="centre" src="media/qrcode.png" style="zoom:30%;" /> |
+| Email addresses                                              | Online presence                                              | HPCSA                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img align="left" src="media/email.png" style="zoom:20%;" /> | <img align="centre" src="media/qrcode.png" style="zoom:31%;" /> | <img align="centre" src="media/HPCSA_qr.png" style="zoom:10%;" /> |
 
 | Personal details |                       |
 |:---------------- |:--------------------- |
@@ -15,6 +15,14 @@
 | Nationality      | South African         |
 | Criminal record  | None                  |
 | Languages        | English and Afrikaans |
+
+#### Health Professions Council of South Africa registration
+
+Date Obtained: 13/09/2007
+
+Category:            Virology
+
+Number:             MS 0001511
 
 ### Education
 
@@ -29,14 +37,16 @@
 #### Timeline
 
 - **2004  - 2010**    Practical Assistant for Undergraduate practicals (UFS)    
+
 - **2005**                 Part-time Lecturer (Central University of Technology)        
+
 - **2007 - 2010**     Research Assistant for the National Earthquake Laboratory of South African Mines 
+
 - **2011- 2015**     Assistant Researcher.  Development and application of a HIV resistance genotyping assay. Data analysis and management of collected genotypes and clinical information. 
+
 - **2015 - current**  Medical scientist.  Virology, NHLS Universitas, Bloemfontein 
 
-
-
-
+  
 
 #### Teaching experience at NHLS/UFS
 
@@ -44,9 +54,9 @@
   
   - Main supervisor for Honours student developing an HIV integrase drug resistance assay.
   
-  - Equally shared supervisor for two Honour students on: A simple and rapid approach to prepare Sindbis and West Nile viral RNA controls for differentiation between positive samples and laboratory contamination as shown in the publication list.
+  - Equally shared supervisor for two Honours students on: A simple and rapid approach to prepare Sindbis and West Nile viral RNA controls for differentiation between positive samples and laboratory contamination as shown in the publication list.
   
-  - Co-supervisor for M. Med student looking at the influence of volumes on dry blood spot card for infant HIV diagnostics.
+  - Co-supervisor for M. Med student looking at the influence of volumes on dry blood spot samples for infant HIV diagnostics.
   
   - Co-supervision of M. Med student looking at HBV drug resistance and viral loads
 
@@ -54,7 +64,9 @@
   
   - Marking of M. Sc thesis for Prof Gert van Zyl, Stellenbosch University
 
-- Lecturing Honour students and medical registrars in bioinformatics (http://vdeb.hpc.ufs.ac.za/)
+- Lecturing Honours students and medical registrars in bioinformatics (http://vdeb.hpc.ufs.ac.za/)
+  
+- University of the Free State Medical Faculty Scientific committee member
   
   
 
@@ -62,17 +74,38 @@
 
 M.Sc in biochemistry with experience in molecular biology, including nucleic acid extraction, polymerase chain reaction and designing of PCR primers, recombinant DNA techniques, cloning, site directed mutagenesis, DNA sequencing, recombinant protein expression and enzyme kinetics.
 
+
+
 #### Working experience
 
-In my time working in virology I have developed an HIV protease and reverse transcriptase drug resistance assay which I also validated in terms of sensitivity, specificity, accuracy and precision.  I am also a member of the national NHLS HIV drug resistance subcommittee where we meet once a quarter to discuss operational, QA/QC, clinical and research related to HIV drug resistance.  This allowed me to be part of this assays costing analysis.  We are subscribed to the QCMD EQA program for HIV drug resitance where we always score above 98% and 99.4% in 2020.  I was also involved in getting this assay SANAS acredited and maintaining accreditation with proper GLP.  I am the author of our inhouse HIV drug resistance SOP and do training and competancy evaluation on staff.
+In my time working in Virology I have developed an HIV protease and reverse transcriptase drug resistance assay which I also validated in terms of sensitivity, specificity, accuracy and precision.  I am also a member of the national NHLS HIV drug resistance subcommittee where we meet once a quarter to discuss operational, QA/QC, clinical and research related to HIV drug resistance.  This allowed me to be part of this assay's costing analysis.  We are subscribed to the QCMD EQA program for HIV drug resistance where we always scored above 98% and 99.4% in 2020.  I was also involved in getting this assay SANAS accredited and maintaining accreditation with proper GLP.  I am the author of our inhouse HIV drug resistance SOP and do training and competency evaluations on staff.
 
-As our HIV sequence database grew the need for more sophisticated phylogenetics arose.  With the help of colaborators, I developed a phylogenetic pipeline which we published in PLOS ONE (PhyloPi: An affordable, purpose built phylogenetic pipeline for the HIV drug resistance testing facility).  This also allowed us to reach out to the public in the form of a four-part blog post.  This is available online on RStudio's blog, rviews (https://rviews.rstudio.com/2019/04/30/analysing-hiv-pandemic-part-1/).  PhyloPi is now an integrated part of QA/QC in the Universitas and Charlotte Maxeke drug resistance testing facilities with plans to roll out to the remainder of the facilities as well early this year.  Not only does this provide valuable spot checks, but has identified numerous sample swaps originating from health care facilities that otherwise would not have been noticed.
+As our HIV sequence database grew, the need for more sophisticated phylogenetics arose.  With the help of collaborators, I developed a phylogenetic pipeline which we published in PLOS ONE (PhyloPi: An affordable, purpose built phylogenetic pipeline for the HIV drug resistance testing facility).  This also allowed us to reach out to the public in the form of a four-part blog post.  This is available online on RStudio's blog, rviews (https://rviews.rstudio.com/2019/04/30/analysing-hiv-pandemic-part-1/).  PhyloPi is now an integrated part of QA/QC in the Universitas and Charlotte Maxeke drug resistance testing facilities with plans to roll out to the remainder of the NHLS facilities as well early this year.  Not only does this provide valuable spot checks, but has identified numerous sample swaps originating from health care facilities that otherwise would not have been noticed.
 
-The ongoing pandemic is having devastating consequences around the world.  However, it has challenged the discipline's workforce to levels previously not tested.  I was entrusted with the sars-covid-2 diagnostics in the verification of the various assays, operations, QC/QA, procurement and workflows.  This also includes training of staff and competency evaluation. I have also trained staff at NHLS Virology in Kimberly.
+The ongoing pandemic is having devastating consequences around the world.  However, it has challenged the discipline's workforce to levels previously not tested.  I was entrusted with the SARS-CoV-2 diagnostics in the verification of the various assays, operations, QC/QA, procurement and workflows.  This also includes training of staff and competency evaluation. I have also trained staff at NHLS in Kimberley.  
 
-In any laboratory things can go wrong and especially in diagnostic facilities can have profound implications if it goes unnoticed. In the time working at virology I have plenty of experience in noticing problems, troubleshooting and root cause analysis. 
+Our laboratory has verified and implemented the following SARS-CoV-2 assays:
 
-My python and R experience helped in the analysis and creation of assay evaluation reports.  I have created a script that accepts data in a spreadsheet and calculates various metrics of agreement and other statistics.  The well-cited python package, statsmodels, was used to do the statistical calculations.   I have created numerous reports for pathologists to sign off.
+- NucliSense extraction with Seegene Allplex 2019-nCoV assay
+
+- MagMAX Viral and Pathogen Nucleic Acid Isolation Kit extraction with TaqPath covid-19 kit
+- Seegene Numbis extraction with Seegene Allplex 2019-nCoV assay
+- Bosphore EX-Tract extraction with Seegene Allplex 2019-nCoV assay
+- MagMAX Viral and Pathogen Nucleic Acid Isolation Kit extraction with BGI RT-PCR
+- Roche COBAS 8800*
+- Abbott M2000*
+- BioFire FilmArray*
+
+Assays tested but not implemented:
+
+- Thermal extraction with Seegene Allplex 2019-nCoV assay
+- GeneChecker
+
+(* **Only involved with evaluation reports**)
+
+In any laboratory things can go wrong and especially in diagnostic facilities, this can have profound implications if it goes unnoticed. In the time working at Virology I have plenty of experience in noticing problems, troubleshooting and root cause analysis. 
+
+My python and R experience helped in the analysis and creation of assay evaluation reports.  I have created a script that accepts data in a spreadsheet and calculates various metrics of agreement and other statistics.  The well-cited python package, statsmodels, was used to do the statistical calculations for serology and molecular assay validations.   I have created numerous reports for pathologists to sign off.
 
 
 
@@ -82,12 +115,13 @@ I am involved in various projects where I co-manage research projects with one o
 
 ##### HBV
 
-We are in collaboration with an Oxford group with a few Hepatitis B virus projects. One of our projects was a systematic review of HBV seroepidemiology in Africa.  Here I was involved in visualizations one of which is available at https://hbv-geo.shinyapps.io/oxafricahbv/.
+We are in collaboration with an Oxford group (Wellcome Trust funding under Oxford PI Prof Philippa Matthews) with a few Hepatitis B virus projects. One of our projects was a systematic review of HBV seroepidemiology in Africa.  Here I was involved in visualizations one of which is available at https://hbv-geo.shinyapps.io/oxafricahbv/.
 
 We are analysing retrospective data from the NHLS Central Data Warehouse with the main focus on HBV infection stratified by other factors such as HIV status, gender, age and health outcomes.
 
 Together with structural biologists, we are looking at HBV reverse transcriptase expression of domains with the aim of crystallising and structure determination.
-Co-supervision of an M. Med student looking at HBV, viral loads, tenofovir resistance and the correlation with HIV status and viral loads.
+
+Co-supervision of an M. Med student looking at HBV, viral loads, tenofovir resistance and the correlation with HIV status and viral loads (NHLS RTG funded).
 
 ##### HIV
 
@@ -99,13 +133,11 @@ Consultant on PhD project looking at mother to child HIV transmission and drug r
 
 Successfully raised publication fees for our PhyloPi paper published in PLoS ONE as listed under publications.
 
-
-
 ##### SARS-COV2
 
-Next generation sequenceing and survailance of SARS-COV2 genomes where I am involved in samples selection, bio-informatics and genome consensus generation and quality control.
+Next generation sequencing and surveillance of SARS-COV2 genomes where I am involved in sample selection, bio-informatics and genome consensus generation and quality control (MRC funding as a member of the Network for Genomic Surveillance in South Africa).
 
-Seroepidemiology from HIV viral load samples.
+Seroepidemiology from HIV viral load samples using repeated cross-sectional sampling of approximately 5000 samples.
 
 ##### Diabetes type 2
 
@@ -120,6 +152,8 @@ Next generation sequencing data analysis including *de novo* assembly as well as
 https://github.com/ArmandBester/
 
 I constantly try to better my coding ability and statistical knowledge with the focus on problem solving in the real world.  I enrol frequently in online training courses like Udemy and freeCodeCamp.
+
+
 
 ### Academic
 
@@ -181,15 +215,13 @@ I constantly try to better my coding ability and statistical knowledge with the 
 
 
 
-
-
 ### References
 
-#### Dr. D Goedhals
+#### Prof. D Goedhals
 
 Current employment at NHLS/UFS, Virology HOD
 Affiliations:  NHLS Virology Pathologist
-	                 Senior lecturer at the University of the Free State
+	                 Associate professor at the University of the Free State
 Contact details:  gnvrdg@ufs.ac.za
 
 #### Dr. C van Vuuren
