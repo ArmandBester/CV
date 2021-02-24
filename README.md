@@ -34,6 +34,10 @@
 - **2011- 2015**     Assistant Researcher.  Development and application of a HIV resistance genotyping assay. Data analysis and management of collected genotypes and clinical information. 
 - **2015 - current**  Medical scientist.  Virology, NHLS Universitas, Bloemfontein 
 
+
+
+
+
 #### Teaching experience at NHLS/UFS
 
 - Main and co- supervision for Honours and M. students 
@@ -93,6 +97,10 @@ Co-supervision of HIV drug resistance mutations K65R and M184V to determine if t
 
 Consultant on PhD project looking at mother to child HIV transmission and drug resistance profiles (PhD awarded).
 
+Successfully raised publication fees for our PhyloPi paper published in PLoS ONE as listed under publications.
+
+
+
 ##### SARS-COV2
 
 Next generation sequenceing and survailance of SARS-COV2 genomes where I am involved in samples selection, bio-informatics and genome consensus generation and quality control.
@@ -102,8 +110,6 @@ Seroepidemiology from HIV viral load samples.
 ##### Diabetes type 2
 
 Co-supervisor for genetics M. Sc student looking at epigenetics involvement and type 2 Diabetes. (M.Sc awarded)
-
-
 
 #### Readiness in a  world of data
 
@@ -115,11 +121,11 @@ https://github.com/ArmandBester/
 
 I constantly try to better my coding ability and statistical knowledge with the focus on problem solving in the real world.  I enrol frequently in online training courses like Udemy and freeCodeCamp.
 
-
-
 ### Academic
 
 #### Peer reviewed publications
+
+- Oosthuizen Jaco, Kotze Maritha J, Van Der Merwe Nicole, Myburgh Ettienne J, **Bester Phillip**, van der Merwe Nerina C.  Rare BRCA2 Variants With Founder Haplotypes in the South African Population: Implications for Point-of-Care Testing Based on a Single-Institution BRCA1/2 Next-Generation Sequencing Study. 2021.  Frontiers in Oncology. 10(3403)  https://www.frontiersin.org/article/10.3389/fonc.2020.619469 
 
 - Zhongning Zhao , Neil Heideman, **Phillip Bester**, Adriaan Jordaan and Margaretha D. Hofmeyr.  Climatic and topographic changes since the Miocene influenced the diversification and biogeography of the tent tortoise (Psammobates tentorius) species complex in Southern Africa.  2020.  BMC Evolutionary Biology.  https://doi.org/10.1186/s12862-020-01717-1
 - Milton T. Mogotsi, Peter N. Mwangi, **Phillip A. Bester**, M. Jeffrey Mphahlele, Mapaseka L. Seheri, Hester G. O’Neill and Martin M. Nyaga.  Metagenomic Analysis of the Enteric RNA Virome of Infants from the Oukasie Clinic, North West Province, South Africa, Reveals Diverse Eukaryotic Viruses.  2020.  Viruses *12*(11), 1260.       https://doi.org/10.3390/v12111260
@@ -172,3 +178,27 @@ I constantly try to better my coding ability and statistical knowledge with the 
 - **Bester, P.A**., Piater, L.A., van Heerden, E., and Onstott, T.C. (2006). The microbial diversity, chemical and physical properties in fissure water of the deep terrestrial subsurface of the Witwatersrand Basin, South Africa. Abstracts of the SASM *XIX**th* Conference, 9-12 April 2006, Pretoria, South Africa.
 
 - **Bester, P.A**., Piater, L.A., van Heerden, E. and Onstott, T.C. (2005). The microbial diversity, chemical and physical properties in fissure water of the deep terrestrial subsurface of the Witwatersrand Basin, South Africa. In: Abstracts of the *SASBMB XIX**th* Conference, 16-20 January 2005, Stellenbosch, South Africa
+
+
+
+
+
+### References
+
+#### Dr. D Goedhals
+
+Current employment at NHLS/UFS, Virology HOD
+Affiliations:  NHLS Virology Pathologist
+	                 Senior lecturer at the University of the Free State
+Contact details:  gnvrdg@ufs.ac.za
+
+#### Dr. C van Vuuren
+
+Affiliations:  Internal Medicine HOD, 3 Military Hospital Bloemfontein
+Contact details:  vanvuurenc@ufs.ac.za
+
+#### Prof FJ Burt
+
+Affiliations:  Medical scientist, NHLS Universitas Virology  
+                      Senior Research Scientist, Faculty of Medical Sciences, University of the Free State	      
+Contact details:  burtfj@ufs.ac.za
