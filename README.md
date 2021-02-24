@@ -18,7 +18,7 @@
 
 #### Health Professions Council of South Africa registration
 
-Date Obtained: 13/09/2007
+Date Obtained: 01/12/2014
 
 Category:            Virology
 
