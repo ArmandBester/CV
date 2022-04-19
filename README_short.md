@@ -46,8 +46,6 @@ Number:             MS 0001511
 
 - **2015 - current**  Medical scientist.  Virology, NHLS Universitas, Bloemfontein 
 
-  
-
 #### Teaching experience at NHLS/UFS
 
 - Main and co- supervision for Honours and M. students 
@@ -68,50 +66,12 @@ Number:             MS 0001511
   
 - University of the Free State Medical Faculty Scientific committee member
   
-  
 
 #### Academic background
 
 M.Sc in biochemistry with experience in molecular biology, including nucleic acid extraction, polymerase chain reaction and designing of PCR primers, recombinant DNA techniques, cloning, site directed mutagenesis, DNA sequencing, recombinant protein expression and enzyme kinetics.
 
-
-
-#### Working experience
-
-In my time working in Virology I have developed an HIV protease and reverse transcriptase drug resistance assay which I also validated in terms of sensitivity, specificity, accuracy and precision.  I am also a member of the national NHLS HIV drug resistance subcommittee where we meet once a quarter to discuss operational, QA/QC, clinical and research related to HIV drug resistance.  This allowed me to be part of this assay's costing analysis.  We are subscribed to the QCMD EQA program for HIV drug resistance where we always scored above 98% and 99.4% in 2020.  I was also involved in getting this assay SANAS accredited and maintaining accreditation with proper GLP.  I am the author of our inhouse HIV drug resistance SOP and do training and competency evaluations on staff.
-
-As our HIV sequence database grew, the need for more sophisticated phylogenetics arose.  With the help of collaborators, I developed a phylogenetic pipeline which we published in PLOS ONE (PhyloPi: An affordable, purpose built phylogenetic pipeline for the HIV drug resistance testing facility).  This also allowed us to reach out to the public in the form of a four-part blog post.  This is available online on RStudio's blog, rviews (https://rviews.rstudio.com/2019/04/30/analysing-hiv-pandemic-part-1/).  PhyloPi is now an integrated part of QA/QC in the Universitas and Charlotte Maxeke drug resistance testing facilities with plans to roll out to the remainder of the NHLS facilities as well early this year.  Not only does this provide valuable spot checks, but has identified numerous sample swaps originating from health care facilities that otherwise would not have been noticed.
-
-The ongoing pandemic is having devastating consequences around the world.  However, it has challenged the discipline's workforce to levels previously not tested.  I was entrusted with the SARS-CoV-2 diagnostics in the verification of the various assays, operations, QC/QA, procurement and workflows.  This also includes training of staff and competency evaluation. I have also trained staff at NHLS in Kimberley.  
-
-Our laboratory has verified and implemented the following SARS-CoV-2 assays:
-
-- NucliSense extraction with Seegene Allplex 2019-nCoV assay
-
-- MagMAX Viral and Pathogen Nucleic Acid Isolation Kit extraction with TaqPath covid-19 kit
-- Seegene Numbis extraction with Seegene Allplex 2019-nCoV assay
-- Bosphore EX-Tract extraction with Seegene Allplex 2019-nCoV assay
-- MagMAX Viral and Pathogen Nucleic Acid Isolation Kit extraction with BGI RT-PCR
-- Roche COBAS 8800*
-- Abbott M2000*
-- BioFire FilmArray*
-
-Assays tested but not implemented:
-
-- Thermal extraction with Seegene Allplex 2019-nCoV assay
-- GeneChecker
-
-(* **Only involved with evaluation reports**)
-
-In any laboratory things can go wrong and especially in diagnostic facilities, this can have profound implications if it goes unnoticed. In the time working at Virology I have plenty of experience in noticing problems, troubleshooting and root cause analysis. 
-
-My python and R experience helped in the analysis and creation of assay evaluation reports.  I have created a script that accepts data in a spreadsheet and calculates various metrics of agreement and other statistics.  The well-cited python package, statsmodels, was used to do the statistical calculations for serology and molecular assay validations.   I have created numerous reports for pathologists to sign off.
-
-
-
 #### Ongoing and recent academic projects (2020-2021)
-
-I am involved in various projects where I co-manage research projects with one or more of our pathologists.  In many of the projects and research outputs listed below, I was heavily involved in data analysis and/or bio-informatics.
 
 ##### HBV
 
@@ -119,41 +79,17 @@ We are in collaboration with an Oxford group (Wellcome Trust funding under Oxfor
 
 We are analysing retrospective data from the NHLS Central Data Warehouse with the main focus on HBV infection stratified by other factors such as HIV status, gender, age and health outcomes.
 
-Together with structural biologists, we are looking at HBV reverse transcriptase expression of domains with the aim of crystallising and structure determination.
-
-Co-supervision of an M. Med student looking at HBV, viral loads, tenofovir resistance and the correlation with HIV status and viral loads (NHLS RTG funded).
-
 ##### HIV
 
 Co-supervision M. Med with the aim of determining the effect of volume on dry blood spot cards used for infant HIV diagnosis. (M. Med awarded)
 
 Co-supervision of HIV drug resistance mutations K65R and M184V to determine if these mutations can reside on the same virus by using a cloning strategy. This was part of an HPCSA portfolio for an intern.
 
-Consultant on PhD project looking at mother to child HIV transmission and drug resistance profiles (PhD awarded).
-
-Successfully raised publication fees for our PhyloPi paper published in PLoS ONE as listed under publications.
-
 ##### SARS-COV2
 
 Next generation sequencing and surveillance of SARS-COV2 genomes where I am involved in sample selection, bio-informatics and genome consensus generation and quality control (MRC funding as a member of the Network for Genomic Surveillance in South Africa).
 
 Seroepidemiology from HIV viral load samples using repeated cross-sectional sampling of approximately 5000 samples.
-
-##### Diabetes type 2
-
-Co-supervisor for genetics M. Sc student looking at epigenetics involvement and type 2 Diabetes. (M.Sc awarded)
-
-#### Readiness in a  world of data
-
-Proficient in the R statistical programming language, python programming language and bash scripting.  Proficient with data cleaning and wrangling using both R or python pandas as well as data representation in both R and python.
-
-Next generation sequencing data analysis including *de novo* assembly as well as mapping applications such as SNP discovery.  
-
-https://github.com/ArmandBester/
-
-I constantly try to better my coding ability and statistical knowledge with the focus on problem solving in the real world.  I enrol frequently in online training courses like Udemy and freeCodeCamp.
-
-
 
 ### Academic
 
@@ -185,43 +121,8 @@ I constantly try to better my coding ability and statistical knowledge with the 
 - Goedhals D, **Bester PA**, Paweska JT, Swanepoel R, Burt FJ.  Comparative analysis of the L, M, and S RNA segments of Crimean-Congo haemorrhagic fever virus isolates from southern Africa. Journal of medical virology. 2015 Feb Vol 85, Issue 5 p717-724. DOI: 10.1002/jmv.24079
 - Goedhals D, **Bester PA**, Paweska JT, Swanepoel R, Burt FJ. Next-generation sequencing of southern African Crimean-Congo haemorrhagic fever virus isolates reveals a high frequency of M segment reassortment. Epidemiology and Infection. 2014 May 1:1-11. [Epub ahead of print] PubMed PMID: 24786748.
 - Manasa J, Lessells R, Rossouw T, Naidu K, Van Vuuren C, Goedhals D, van Zyl G, **Bester A**, Skingsley A, Stott K, Danaviah S, Chetty T, Singh L, Moodley P, Iwuji C, McGrath N, Seebregts CJ,  de Oliveira T. Southern African Treatment Resistance Network (SATuRN) RegaDB HIV drug resistance and clinical management database: supporting patient management, surveillance and research in southern Africa. Database (Oxford). 2014 Feb 6; 2014:bat082. doi: 10.1093/database/bat082. Print 2014. PubMed PMID: 24504151
-- Johanna Lippmann-Pipke, Jörg Erzinger, Martin Zimmer, Christian Kujawa; Margaret Boettcher,  Esta van Heerden,  **Armand Bester**; Hannes Moller; Nicole A Stroncik, Zeev Reches.  Direct observation of geogas transport through an inactive fault system at 3.54 km depth, TauTona gold mine, South Africa.   Applied Geochemistry, 26, 12, 2134‐2146
 - Borgonie, G., García-Moyano, A., Litthauer, D., Bert, W., **Bester, P.A.**, van Heerden, E and  Onstott, T.C.  (2011). Worms from hell: Nematoda from the terrestrial deep subsurface of South Africa.  Nature 2009-12-15946E, volume 474, issue 7349 from 02 June 2011.
 - **Bester, P.A**., Litthauer, D., Piater, L.A., and van Heerden, E. (2010). A thioredoxin reductase-like protein from the thermophile, Thermus scotoductus SA-01, displaying iron reductase activity. FEMS Microbiology Letters 302, 182 -188.
-- Van Heerden, E, Opperman, D.J., **Bester, P.A**., Van Marwijk, J., Cason, E.D., Litthauer, D., Piater, L.A. and Onstott, T.C. (2008). Metabolic promiscuity from the deep subsurface: a story of Survival or Superiority. Instruments, Methods, and Missions for Astrobiology XI. Edited by Hoover, Richard B.; Levin, Gilbert V.; Rozanov, Alexei Y.; Davies, Paul C. Proceedings of the SPIE, Volume 7097, pp. 70970S-70970S-12.
-
-#### Talks (International)
-
-- **PA Bester**, A De Vries, SJPK Riekert, K Steegen, G van Zyl, D. Goedhals.  PhyloPi: an affordable, purpose built phylogenetic pipeline for the HIV drug resistance testing facility.  27th International Workshop on HIV Drug Resistance and Treatment Strategies.  22-23 October 2018.
-- Lippman-Pipke, J., Erzinger, J., Zimmer, M., Kujawa, C., Boettcher, M.S., Van Aswegen, G., Moller, H., Van Heerden, E., **Bester, A**., Reches, Z. Long-term, on-site borehole monitoring of gases released from an active fault system at 3.6km depth, TauTona Gold Mine, South Africa. 2009 AGU Fall Meeting, 14-18 December, San Francisco, California.
-- van Heerden, E., **Bester, P.A**., Gounder, K., Litthauer, D., and Opperman, D.J. Mechanisms and Multitasking of “reductases” from *Thermus scotoductus* SA01. Thermophiles 2009. August 16-21. Beijing China.
-- Ontstott, T.C.,  E. Chan, Van Heerden, E. , Litthauer, D.,  **Bester, A**., Reches, Z., Van Aswegan, G., Moller, H., and Lippman-Pipke, J.,. An *in situ* bioseismicity experiment 3.6 km beneath the surface at NELSAM. AGU Fall Meeting 2008: Special Section H66, 15 – 19 December 2008, San Francisco, California, USA.
-- Lippman-Pipke, J., Erzinger, J., Zimmer, M., Kujawa, C., Van Heerden, E., **Bester, A**., Moller, H., Boettcher, M. and Reches, Z. Direct observation of blasting triggered geogas transport through an inactive fault system at3.6km depth, Tautona gold mine, SA National meeting on ICDP/IODP-projcts in Hannover, Germany (March, 12-14th, 2008).
-- G. Lacrampe-Couloume, Van Heerden, E., Piater, L.A., Opperman, D.J., **Bester, A**., Lippman-Pipke, J., Slater, G.F., Ontstott, T.C., and B. Sherwood Lollar. Microbial methanogenesis in ancient groundwaters in Witwatersrand Basin: The timing of deep subsurface life. ABSCICON 2008. The 5th Astrobiology Science C*onference* April 14 - 17, 2008. Santa Clara Convention Center Santa Clara, California, USA
-
-#### Posters (International)
-
-- **PA Bester**, A De Vries, SJPK Riekert, K Steegen, G van Zyl, D. Goedhals.  PhyloPi: an affordable, purpose built phylogenetic pipeline for the HIV drug resistance testing facility.  27th International Workshop on HIV Drug Resistance and Treatment Strategies.  22-23 October 2018.
-- D. Goedhals, **P. A. Bester**, J. T. Paweska, R. Swanepoel, F. J. Burt.  Next generation sequencing of southern African Crimean-Congo haemorrhagic fever virus isolates.  16th ICID, Cape Town, South Africa, 2-5 April 2014.
-- Lacrampe-Couloume, G., Van Heerden, E., Piater, L.A., Opperman, D.J.,, **Bester, A**., Lippman-Pipke, J., Slater, G.F.,, Ontstott, T.C., and B. Sherwood Lollar. Microbial methanogenesis in ancient groundwaters in Witwatersrand Basin: The timing of deep subsurface life. Poster presentation. ABSCICON 2008. The 5th Astrobiology Science Conference, 14 – 17 April, 2008, Santa Clara Convention Center Santa Clara, California, USA
-- Lippman-Pipke, J., Erzinger, J., Zimmer, M., Kujawa, C., Van Heerden, E., **Bester, A**. Moller, H., Boettcher, M., and Reches, E. Direct observation of blasting triggered geogas transport through an inactive fault system at 3.6 km depth, TauTona gold mine. Poster presentation. SA National meeting on ICDP/IODP-projects, 12 – 14 March 2008, Hannover, Germany.
-- Van Heerden, E., Opperman, D.J., **Bester, A.**, Möller, C., Litthauer, D., and Parro, V. Metal reductases from the South African Deep Subsurface. International conference - Thermophiles 2007. September 24-27, Bergen. Norway
-
-#### Talks (National)
-
-- **Bester, P.A**., Litthauer, D., Piater, L.A. and Van Heerden, E. Functional and Structural Analysis of a Ferric Reductase. SASBMB 2010 - 22nd Congress of the South African Society for Biochemistry and Molecular Biology. Bloemfontein, South Africa. 17-20 January 2010.
-- Lippmann-Pipke, Erzinger, J.,, Zimmer, M., Kujawa, C., Van Heerden, E., Litthauer, D., **Bester, A**., Niedermann, S., Boettcher, M., van Aswegen, G., Moller, H., Heesakkers, V. and Reches, Z. Striking correlation between geogas data and mining induced seismicity in the world’s deepest gas lab, TauTona Gold Mine, SA. Poster presentation. 5th Inkaba ye Africa Scientific Workshop, 22 - 23 October 2007, Wild Coast Sun, South Africa.
-- **Bester, P.A**. , Piater, L.A. and van Heerden, E. Ubiquitous nature of iron reductase from Thermus scotoductus SA-01. Oral presentation: Bio-08, January 21 - 25 2008, Grahamstown, South Africa.
-
-#### Posters (National)
-
-- **Bester, P.A**., Piater, L.A., van Heerden, E., and Onstott, T.C. (2006). The microbial diversity, chemical and physical properties in fissure water of the deep terrestrial subsurface of the Witwatersrand Basin, South Africa. In: Abstracts of the 14th Biennial Congress of the South African Society for Microbiology, 9-12 April 2006, Pretoria, South Africa, P173.
-
-- **Bester, P.A**., Piater, L.A., van Heerden, E., and Onstott, T.C. (2006). The microbial diversity, chemical and physical properties in fissure water of the deep terrestrial subsurface of the Witwatersrand Basin, South Africa. Abstracts of the SASM *XIX**th* Conference, 9-12 April 2006, Pretoria, South Africa.
-
-- **Bester, P.A**., Piater, L.A., van Heerden, E. and Onstott, T.C. (2005). The microbial diversity, chemical and physical properties in fissure water of the deep terrestrial subsurface of the Witwatersrand Basin, South Africa. In: Abstracts of the *SASBMB XIX**th* Conference, 16-20 January 2005, Stellenbosch, South Africa
-
-
 
 ### References
 
@@ -236,9 +137,3 @@ Contact details:  gnvrdg@ufs.ac.za
 
 Affiliations:  Internal Medicine HOD, 3 Military Hospital Bloemfontein
 Contact details:  vanvuurenc@ufs.ac.za
-
-#### Prof FJ Burt
-
-Affiliations:  Medical scientist, NHLS Universitas Virology  
-                      Senior Research Scientist, Faculty of Medical Sciences, University of the Free State	      
-Contact details:  burtfj@ufs.ac.za
