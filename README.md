@@ -153,11 +153,16 @@ https://github.com/ArmandBester/
 
 I constantly try to better my coding ability and statistical knowledge with the focus on problem solving in the real world.  I enrol frequently in online training courses like Udemy and freeCodeCamp.
 
+Since 2023, I have been involved with the Grid Related Research Group (GRRG) at the University of the Free State and the Interdisciplanary Center for Digital Futures (ICDF), also at the University of the Free State. One of the goals of the GRRG is to understand the power demand on it's campuses and the optimized incorporation of renewanle energy. In the mist of South Africa's energy crisis it is important to monitor, analyse and understand the electrical grid dynamics in order to act appropriately. One of the outcomes of my involvement was the establishment of an open source pipiline for the real time accusition fo the measurements on both Bloemfontein and QwaQwa campus (a dashbourd of that is available at https://s.ern.ufs.ac.za/grrg). I have also been invited to present at a collocium and a workshop for the groups focusing on data mining and time series analysis.  In this capacity I have been invited to co-suppervise a M.Sc student at the Norwegian University of Life Sciences (NMBU) which will conclude in 2024.
 
 
 ### Academic
 
 #### Peer reviewed publications
+
+* Nicole Kennedy, Dominique Goedhals,Sabeehah Vawda, **Philip Armand Bester**, Felicity Burt. Sindbis Virus AntibodySeroprevalence in CentralPlateau Populations,South Africa. 2022. Emerging Infectious Diseases 28(10):2137-2139. Advancing HIV Drug Resistance Technologies and Strategies:Insights from South Africa’s Experience and Future Directionsfor Resource-Limited Settings. 2023. Diagnostics 13(13)
+
+* Kim Steegen, Gert U. van Zyl, Mathilda Claassen, Aabida Khan, Melendhran Pillay, Subitha Govender **Phillip A. Bester**, Johanna M. van Straaten, Vibha Kana, Ewaldé Cutler, Monalisa N. Kalimashe, Ramokone L. Lebelo, Mokopi B. H. Moloi and Lucia Hans.  
 
 * Peter Mwangi, Milton Mogotsi1 Ayodeji Ogunbayo, Teboho Mooko, Wairimu Maringa, Hlengiwe Sondlane, Kelebogile Nkwadipo, Olusesan Adelabu, **Philip Armand Bester**, Dominique Goedhals, Martin Nyaga. A decontamination strategy for resolving SARS‑CoV‑2 amplicon contamination in a next‑generation sequencing laboratory.  2022. Archives of Virology. 10.1007/s00705-022-05411-z
 
