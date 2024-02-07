@@ -160,11 +160,11 @@ Since 2023, I have been involved with the Grid Related Research Group (GRRG) at 
 
 #### Peer reviewed publications
 
-*J. Maritz, L. R. Gorjão, **P. A. Bester**, N. Esterhuysen, S. Erasmus, S. Riekert, R. Immelman, T. Geldenhuys, A. Viljoen, C. Bodenstein. "Data-Driven Modeling of Frequency Dynamics Observed in Operating Microgrids: A South African University Campus Case Study," in IEEE Access, vol. 12, pp. 14466-14473, 2024, doi: 10.1109/ACCESS.2024.3357945.
+* J. Maritz, L. R. Gorjão, **P. A. Bester**, N. Esterhuysen, S. Erasmus, S. Riekert, R. Immelman, T. Geldenhuys, A. Viljoen, C. Bodenstein. "Data-Driven Modeling of Frequency Dynamics Observed in Operating Microgrids: A South African University Campus Case Study," in IEEE Access, vol. 12, pp. 14466-14473, 2024, doi: 10.1109/ACCESS.2024.3357945.
 
 * Nicole Kennedy, Dominique Goedhals,Sabeehah Vawda, **Philip Armand Bester**, Felicity Burt. Sindbis Virus AntibodySeroprevalence in CentralPlateau Populations,South Africa. 2022. Emerging Infectious Diseases 28(10):2137-2139. Advancing HIV Drug Resistance Technologies and Strategies:Insights from South Africa’s Experience and Future Directionsfor Resource-Limited Settings. 2023. Diagnostics 13(13)
 
-* Kim Steegen, Gert U. van Zyl, Mathilda Claassen, Aabida Khan, Melendhran Pillay, Subitha Govender **Phillip A. Bester**, Johanna M. van Straaten, Vibha Kana, Ewaldé Cutler, Monalisa N. Kalimashe, Ramokone L. Lebelo, Mokopi B. H. Moloi and Lucia Hans.
+* Kim Steegen, Gert U. van Zyl, Mathilda Claassen, Aabida Khan, Melendhran Pillay, Subitha Govender **Phillip A. Bester**, Johanna M. van Straaten, Vibha Kana, Ewaldé Cutler, Monalisa N. Kalimashe, Ramokone L. Lebelo, Mokopi B. H. Moloi and Lucia Hans. Advancing HIV Drug Resistance Technologies and Strategies: Insights from South Africa’s Experience and Future Directions for Resource-Limited Settings. Diagnostics 2023, 13, 2209
 
 * Mwangi Peter, Okendo Javan, Mogotsi Milton, Ogunbayo Ayodeji, Adelabu Olusesan, Sondlane Hlengiwe, Maotoana Makgotso, Mahomed Lutfiyya, Morobadi Molefi Daniel, Vawda Sabeehah, von Gottberg Anne, Bhiman Jinal, Tegally Houriiyah, Wilkinson Eduan, Giandhari Jennifer, Pillay Sureshnee, Naidoo Yeshnee, Ramphal Upasana, de Oliveira Tulio, **Bester Armand**, Goedhals Dominique, Nyaga Martin. SARS-CoV-2 variants from COVID-19 positive cases in the Free State province, South Africa from July 2020 to December 2021. 2022. Frontiers in Virology     
 	
