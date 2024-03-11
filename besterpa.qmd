@@ -1,0 +1,248 @@
+---
+title: Untitled
+format:
+  modern2-cv-pdf: default
+author: Armand Bester
+cvfont: raleway #texlive fonts like raleway,fetamont,gillius,comfortaa
+cvcolor: 
+  main: '1c2841' #'006666'
+  accent: '36454F' #'CC5500'
+jobtitle: Passionate about interdiciplanary science
+sidebar:
+  image: portrait.jpg
+  bullets:
+    - Bloemfontein, South Africa
+    - South African
+    - Married
+  sections: 
+    - name: Skills - data
+      items:
+        - text: Python 
+          exp: 
+            text: "10+ yrs"
+            num: 0.8
+        - text: Bash
+          exp: 
+            text: "10+ yrs"
+            num: 0.6
+        - text: R
+          exp: 
+            text: "5 yrs"
+            num: 0.5
+        - text: C++ (Arduino)
+          exp: 
+            text: "5 yrs"
+            num: 0.4
+        - text: Rmarkdown
+          exp: 
+            text: "2 yrs"
+            num: 0.5
+        - text: Quarto
+          exp: 
+            text: "1 yrs"
+            num: 0.1
+        - text: Analysis of NGS data
+          exp:
+            text: "10+ yrs"
+            num: 1
+        - text: Data Analysis
+          exp: 
+            text: "10+ yrs"
+            num: 0.8
+        - text: Internet of Things
+          exp: 
+            text: "2 yrs"
+            num: 0.3
+
+    - name: Skills - lab
+      items:
+        - text: Sanger sequencing
+          exp: 
+            text: "10+ yrs"
+            num: 1
+        - text: Oxford NanoPore sequencing
+          exp: 
+            text: "3 yrs"
+            num: 0.6
+        - text: IonTorrent sequencing
+          exp: 
+            text: "newbie"
+            num: 0.2
+        - text: Molecular recombinant technology
+          exp: 
+            text: "10+ yrs"
+            num: 0.5
+        - text: PCR and real-time PCR design
+          exp:
+            text: "10+ yrs"
+            num: 0.7
+        - text: Site directed mutagenesis and cloning
+          exp:
+            text: "10+ yrs"
+            num: 0.5
+        
+    - name: Tools
+      items:
+        - Jupyter
+        - Terminal 
+        - Git
+        - RStudio
+        - VS Code
+    - name: Education
+      items:
+        - text: "M.Sc Biochemistry"
+          inst: "University of the Free State"
+          time: "2007"
+        - text: "B.Sc Honours in Biochemistry"
+          inst: "University of the Free State"
+          time: "2004"
+        - text: "B.Sc Biochemistry and Organic Chemistry"
+          inst: "University of the Free State"
+          time: "2003"
+    - name: Contact
+      items:
+        - icon: map-marker
+          text: Bloemfontein, South Africa
+        - icon: phone
+          text: "+27 72 293 7193"
+        - icon: envelope
+          text: besterpa.sci@gmail.com
+        - icon: github
+          text: Armand Bester
+          href: https://github.com/ArmandBester
+execute: 
+  echo: false
+---
+
+```{r}
+#| label: cvevents
+cvevents <- function(tbl, when, what, where, descr) {
+
+    command_start <- "\\cvevent"
+    tbl[[where]] <- gsub("\n", " \\\\newline ", tbl[[where]])
+    res <- paste0(
+        command_start, "{", tbl[[when]], "}", 
+        "{", tbl[[what]], "}",
+        "{", tbl[[where]], "}",
+        "{", tbl[[descr]], "}"
+        )
+
+    cat(res, sep = "\n\n\n")
+}
+
+cvproj <- function(tbl,what,role,items){
+    command_start <- "\\cvproj"
+    res <- paste0(
+        command_start, "{", tbl[[what]], "}",
+        "{", tbl[[role]], "}",
+        "{", sapply(tbl[[items]], function(x)paste0(x,collapse = ", ")), "}"
+    )
+
+    cat(res, sep = "\n\n\n")
+}
+```
+
+# Summary
+
+At some stage in my career, it became obvious that the amount of data being generated in science surpasses what one would be used to not too long ago. I have always found algorithms and programming languages interesting, and the marrying of informatics and science is one of my favourite things. This gives me the opportunity to be involved in diverse projects. \
+
+# Experience
+
+```{r}
+#| label: experience
+#| output: asis
+tibble::tribble(
+    ~role, ~institution, ~dates, ~details,
+    
+"Senior Medical Scientist", "National Health Laboratory Services", "Aug 2021 - Present", "I am a practising medical scientist in the Division of Virology where I am involved with both diagnostics and research.",
+
+"Medical Scientist", "National Health Laboratory Services", "Jan 2012 - Jul 2021", "",
+
+"Assistant Researcher", "Dept. Medical Virology", "Jan 2011 - Dec 2014", "During this time I developed an HIV drug resistance assay which was later implemented",
+
+"Research Assistant", "National Earthquake Laboratory of South African Mines", "Jan 2007 - Dec 2010", "Running and maintaining a quadrupole mass spectrometer for measuring gasses from rock 3.6 km deep",
+
+) |>
+    cvevents(when = "dates", what = "role", where = "institution", descr = "details")
+```
+
+# Projects
+
+```{r}
+#| label: proj
+#| output: asis
+tibble::tribble(
+    ~what, ~role, ~items,
+
+"PhyloPi", "An affordable, purpose-built phylogenetic pipeline for the HIV drug resistance testing facility", "HIV drug resistance testing involves sequencing some parts of the viral genome, which informs us of the virus's susceptibility to Anti-Retroviral drugs.  If the patient shows resistance to a particular drug they are taking, this guides the clinician in adjusting the regimen.  Additionally, when generating this sequence data one can do phylogenetic analysis as quality control.  This led us to develop a standalone bioinformatic pipeline. Apart from the academic adventure this also gave us the opportunity to write about HIV on RStudio's blog post (https://rviews.rstudio.com/2019/04/30/analysing-hiv-pandemic-part-1/).  This four-part series shows the analysis of public data using R and was a fun outreach and I am quite proud about the people I got to work with.",
+
+
+"Sequencing, ecology and surveillance", "Data generation and analysis. Sequencing, bash, python", "The ability to generate sequencing data and the analysis of this data allows me opportunities to collaborate in projects such as viral surveillance, the interesting viruses and microbes occurring in infant guts, fungi in urban water and all kinds of other sequencing projects.",
+
+"Hepatitis B infections", "Python, data wrangling, infographics, statistics, R", "In the crazy world of data, we are analyzing patient laboratory test results about Hepatitis B infections and in part trying to show how this very infectious but preventable virus is neglected.  Previously we also worked with some friendly people from Oxford where we did a meta-analysis on the serology of hepatitis B in Africa, and we made an interactive dashboard of this (https://hbv-geo.shinyapps.io/oxafricahbv/).",
+
+
+"A microgrid in an energy crisis", "Influxdb, telegraf, grafana", "Working with the brilliant people at the GRRG (Grid Related Research Group) and the eResearch High Performance Computing unit, we developed a dashboard showing real-time power consumption and grid frequency (https://s.ern.ufs.ac.za/grrg) for both the Bloemfontein as well as QwaQwa campuses. We are using data to manage resource planning for power demand and, together with the ICDF (Interdisciplinary Centre for Digital Futures), are trying to understand how social layers and the usage and understanding of electricity influence each other."
+
+) |>
+    cvproj(what = "what", role = "role", items = "items")
+
+```
+
+# Peer reviewed publications
+
+-   Data-Driven Modeling of Frequency Dynamics Observed in Operating Microgrids: A South African University Campus Case Study. 2024. **IEEE Access**. <http://dx.doi.org/10.1109/ACCESS.2024.3357945>
+
+-   Advancing HIV Drug Resistance Technologies and Strategies:Insights from South Africa’s Experience and Future Directionsfor Resource-Limited Settings. 2023. **Diagnostics**. <https://doi.org/10.3390/diagnostics13132209>
+
+-   Sindbis Virus AntibodySeroprevalence in CentralPlateau Populations,South Africa. 2022. **Emerging Infectious Diseases.** <https://doi.org/10.3201%2Feid2810.211798>
+
+-   SARS-CoV-2 variants from COVID-19 positive cases in the Free State province, South Africa from July 2020 to December 2021. 2022. **Frontiers in Virology** <https://doi.org/10.3389/fviro.2022.935131>
+
+-   A decontamination strategy for resolving SARS‑CoV‑2 amplicon contamination in a next‑generation sequencing laboratory. 2022. **Archives of Virology.** <https://doi.org/10.1007%2Fs00705-022-05411-z>
+
+-   Emergence of SARS-CoV-2 Omicron lineages BA.4 and BA.5 in South Africa. 2022. **Nature Medicine**. <https://doi.org/10.1038/s41591-022-01911-2>
+
+-   Rapid epidemic expansion of the SARS-CoV-2 Omicron variant in southern Africa. 2022. **Nature.** <https://doi.org/10.1038/s41586-022-04411-y>
+
+-   Whole-Genome Sequence and Comparative Analysis of Human Papillomavirus Type 18 Isolated from a Nasopharyngeal Carcinoma from South Africa. 2021. **Microbiology Resource Announcements.** <https://doi.org/10.1128/MRA.00630-21>
+
+-   Complete genome sequence of a HPV31 isolate from laryngeal squamous cell carcinoma and biological consequences for p97 promoter activity. 2021. **PLoS ONE.** <https://doi.org/10.1371/journal.pone.0252524>
+
+-   Rare BRCA2 Variants With Founder Haplotypes in the South African Population: Implications for Point-of-Care Testing Based on a Single-Institution BRCA1/2 Next-Generation Sequencing Study. 2021. **Frontiers in Oncology.** <https://doi.org/10.3389/fonc.2020.619469>
+
+-   Climatic and topographic changes since the Miocene influenced the diversification and biogeography of the tent tortoise (Psammobates tentorius) species complex in Southern Africa. 2020. **BMC Evolutionary Biology.** <https://doi.org/10.1186/s12862-020-01717-1>
+
+-   Metagenomic Analysis of the Enteric RNA Virome of Infants from the Oukasie Clinic, North West Province, South Africa, Reveals Diverse Eukaryotic Viruses. 2020. **Viruses** <https://doi.org/10.3390/v12111260>
+
+-   Characteristics of individuals with hepatitis B virus infection in the Free State and Northern Cape provinces of South Africa. 2020. **International Journal of Infectious Diseases.** DOI:<https://doi.org/10.1016/j.ijid.2020.09.1363>
+
+-   Persistence of Crimean- Congo Hemorrhagic Fever Virus RNA. 2020. **Emerging Infectious Diseases.** <https://dx.doi.org/10.3201/eid2602.191460.>
+
+-   A simple and rapid approach to prepare Sindbis and West Nile viral RNA controls for differentiation between positive samples and laboratory contamination. 2020. **Journal of Virological Methods**. <https://doi.org/10.1016/j.jviromet.2020.113822.>
+
+-   Unraveling the diversification and systematic puzzle of the highly polymorphic Psammobates tentorius (Bell, 1828) complex (Reptilia: Testudinidae) through phylogenetic analyses and species delimitation approaches. 2020. **Journal of Zoological Systematics and Evolutionary Research**. <https://doi.org/10.1111/jzs.12338>
+
+-   Hepatitis B virus seroepidemiology data for Africa: Modelling intervention strategies based on a systematic review and meta-analysis. 2020. **PLoS Med.** <https://doi.org/10.1371/journal.pmed.1003068>
+
+-   PhyloPi: An affordable, purpose built phylogenetic pipeline for the HIV drug resistance testing facility. 2019. **PloS ONE.** <https://doi.org/10.1371/journal.pone.0213241>
+
+-   Seroepidemiologic Survey of Crimean-Congo Hemorrhagic Fever Virus in Selected Risk Groups, South Africa. 2018. **Emerging Infectious Diseases**. <https://doi.org/10.3201%2Feid2407.172096>
+
+-   Determination of the complete genome and functional analysis of HPV6 isolate VBD19/10 from a patient with aggressive recurrent respiratory papillomatosis. 2016. **Epidemiology and Infection**. <https://doi.org/10.1017/s0950268816000388>
+
+-   Global epidemiology of drug resistance following failure of WHO recommended first line regimens for adult HIV–1 infection – a multi–centre retrospective cohort study. 2016. **The Lancet Infectious Diseases.** <https://doi.org/10.1016/s1473-3099(15)00536-8>
+
+-   Comparative analysis of the L, M, and S RNA segments of Crimean-Congo haemorrhagic fever virus isolates from southern Africa. 2015 **Journal of medical virology.** <https://doi.org/10.1002/jmv.24079>
+
+-   Next-generation sequencing of southern African Crimean-Congo haemorrhagic fever virus isolates reveals a high frequency of M segment reassortment. 2014. **Epidemiology and Infection**. <https://doi.org/10.1017/s0950268814000818>
+
+-   Southern African Treatment Resistance Network (SATuRN) RegaDB HIV drug resistance and clinical management database: supporting patient management, surveillance and research in southern Africa. 2014 **Database (Oxford)**. <https://doi.org/10.1093/database/bat082>
+
+-   Direct observation of geogas transport through an inactive fault system at 3.54 km depth, TauTona gold mine, South Africa. 2011 **Applied Geochemistry**. <https://doi.org/10.1016/j.apgeochem.2011.07.011>
+
+-   Worms from hell: Nematoda from the terrestrial deep subsurface of South Africa. 2011 **Nature**. <https://doi.org/10.1038/nature09974>
+
+-   A thioredoxin reductase-like protein from the thermophile, Thermus scotoductus SA-01, displaying iron reductase activity. 2010 **FEMS Microbiology Letters**. <https://doi.org/10.1111/j.1574-6968.2009.01852.x>
+
+-   Metabolic promiscuity from the deep subsurface: a story of Survival or Superiority. **Instruments, Methods, and Missions for Astrobiology XI.** Edited by Hoover, Richard B.; Levin, Gilbert V.; Rozanov, Alexei Y.; Davies, Paul C. **Proceedings of the SPIE**. <https://doi.org/10.1117/12.801142>
