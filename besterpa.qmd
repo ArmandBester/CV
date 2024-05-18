@@ -88,6 +88,13 @@ sidebar:
         - Git
         - RStudio
         - VS Code
+    - name: Professional
+    - name: registration
+      items:
+        - text: "MS 0001511"
+          inst: "HPCSA"
+          time: "1 Dec 2014"
+          
     - name: Education
       items:
         - text: "M.Sc Biochemistry"
@@ -127,7 +134,7 @@ cvevents <- function(tbl, when, what, where, descr) {
         "{", tbl[[descr]], "}"
         )
 
-    cat(res, sep = "\n\n\n")
+    cat(res, sep = "\n")
 }
 
 cvproj <- function(tbl,what,role,items){
@@ -138,7 +145,7 @@ cvproj <- function(tbl,what,role,items){
         "{", sapply(tbl[[items]], function(x)paste0(x,collapse = ", ")), "}"
     )
 
-    cat(res, sep = "\n\n\n")
+    cat(res, sep = "\n\n\n")  # dont change this
 }
 ```
 
