@@ -189,12 +189,38 @@ tibble::tribble(
 "Hepatitis B infections", "Python, data wrangling, infographics, statistics, R", "In the crazy world of data, we are analyzing patient laboratory test results about Hepatitis B infections and in part trying to show how this very infectious but preventable virus is neglected.  Previously we also worked with some friendly people from Oxford where we did a meta-analysis on the serology of hepatitis B in Africa, and we made an interactive dashboard of this (https://hbv-geo.shinyapps.io/oxafricahbv/).",
 
 
-"A microgrid in an energy crisis", "Influxdb, telegraf, grafana", "Working with the brilliant people at the GRRG (Grid Related Research Group) and the eResearch High Performance Computing unit, we developed a dashboard showing real-time power consumption and grid frequency (https://s.ern.ufs.ac.za/grrg) for both the Bloemfontein as well as QwaQwa campuses. We are using data to manage resource planning for power demand and, together with the ICDF (Interdisciplinary Centre for Digital Futures), are trying to understand how social layers and the usage and understanding of electricity influence each other."
+"A microgrid in an energy crisis", "Influxdb, telegraf, grafana", "Working with the brilliant people at the GRRG (Grid Related Research Group, UFS) and the eResearch High Performance Computing unit, we developed a dashboard showing real-time power consumption and grid frequency (https://s.ern.ufs.ac.za/grrg) for both the Bloemfontein as well as QwaQwa campuses. We are using data to manage resource planning for power demand and, together with the ICDF (Interdisciplinary Centre for Digital Futures), are trying to understand how social layers and the usage and understanding of electricity influence each other."
 
 ) |>
     cvproj(what = "what", role = "role", items = "items")
 
 ```
+
+
+
+# Teaching experience at NHLS/UFS
+
+\begin{description}
+  \item$\bullet$ Main and co- supervision for Honours and M. students.
+    \item\subitem$\circ$ Main supervisor for Honours student developing an HIV integrase drug resistance assay.
+    \item\subitem$\circ$ Equally shared supervisor for two Honours students on: A simple and rapid approach to
+prepare Sindbis and West Nile viral RNA controls for differentiation between positive samples
+and laboratory contamination as shown in the publication list.
+    \item\subitem$\circ$ Co-supervisor for M. Med student looking at the influence of volumes on dry blood spot
+samples for infant HIV diagnostics.
+    \item\subitem$\circ$ Co-supervision of M. Med student looking at HBV drug resistance and viral loads.
+    \item\subitem$\circ$ Co-supervision of Honours student in the development  of RT-qPCR to detect and  differentiate between orthobunyaviruses.
+    \item\subitem$\circ$ Co-supervision of Honours student in the development of a VWF domains A1, A2 and A3 single molecule sequencing assay.
+    
+  \item$\bullet$ Marking of Honours and M. students dissertations.
+    \item\subitem$\circ$ Marking of M. Sc thesis for Prof Gert van Zyl, Stellenbosch University
+  
+  \item$\bullet$ Lecturing
+    \item\subitem$\circ$ Honours students and medical registrars in bioinformatics, an introduction (https://armandbester.github.io/bioinf/).
+    \item\subitem$\circ$ Honours students and medical registrars, qPCR theory and practical.
+  
+\end{description}
+
 
 # Peer reviewed publications
 
