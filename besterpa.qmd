@@ -224,6 +224,8 @@ samples for infant HIV diagnostics.
 
 # Peer reviewed publications
 
+- Longitudinal analysis of the enteric virome in paediatric subjects from the Free State Province, South Africa, reveals early gut colonisation and temporal dynamics. Virus Res. 2024 May 31;346:199403. doi: 10.1016/j.virusres.2024.199403.
+
 -   Multiplex PCR method for MinION sequencing of Bagaza virus isolated from wild caught mosquitoes in South Africa. **Journal of Virological** Methods. Volume 327, 2024, 114917, ISSN 0166-0934, <https://doi.org/10.1016/j.jviromet.2024.114917>
 
 -   Data-Driven Modeling of Frequency Dynamics Observed in Operating Microgrids: A South African University Campus Case Study. 2024. **IEEE Access**. <http://dx.doi.org/10.1109/ACCESS.2024.3357945>
