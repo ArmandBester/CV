@@ -117,6 +117,10 @@ sidebar:
         - icon: github
           text: Armand Bester
           href: https://github.com/ArmandBester
+        - icon: orcid
+          text: Armand Bester
+          href: https://orcid.org/0000-0002-5795-5313
+          
 execute: 
   echo: false
 ---
