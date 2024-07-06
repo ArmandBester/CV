@@ -228,6 +228,8 @@ samples for infant HIV diagnostics.
 
 # Peer reviewed publications
 
+- Whole genome molecular analysis of respiratory syncytial virus pre and during the Covid-19 pandemic in free state province, South Africa. **Virus Res.** 2024 Jun 26:199421. doi: 10.1016/j.virusres.2024.199421. Epub ahead of print. PMID: 38942296.
+
 - Longitudinal analysis of the enteric virome in paediatric subjects from the Free State Province, South Africa, reveals early gut colonisation and temporal dynamics. **Virus Res.** 2024 May 31;346:199403. doi: 10.1016/j.virusres.2024.199403.
 
 -   Multiplex PCR method for MinION sequencing of Bagaza virus isolated from wild caught mosquitoes in South Africa. **Journal of Virological Methods**. Volume 327, 2024, 114917, ISSN 0166-0934, <https://doi.org/10.1016/j.jviromet.2024.114917>
