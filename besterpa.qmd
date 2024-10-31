@@ -228,6 +228,8 @@ samples for infant HIV diagnostics.
 
 # Peer reviewed publications
 
+- Biofilms on urban aquatic plastic pollution as a reservoir for pathogenic yeasts. **Journal of Water and Health.** 2024 Oct https://doi.org/10.2166/wh.2024.133.
+
 - Whole genome molecular analysis of respiratory syncytial virus pre and during the Covid-19 pandemic in free state province, South Africa. **Virus Res.** 2024 Jun 26:199421. doi: 10.1016/j.virusres.2024.199421. Epub ahead of print. PMID: 38942296.
 
 - Longitudinal analysis of the enteric virome in paediatric subjects from the Free State Province, South Africa, reveals early gut colonisation and temporal dynamics. **Virus Res.** 2024 May 31;346:199403. doi: 10.1016/j.virusres.2024.199403.
