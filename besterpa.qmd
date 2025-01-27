@@ -228,6 +228,8 @@ samples for infant HIV diagnostics.
 
 # Peer reviewed publications
 
+- Culture-Dependent and -Independent Wastewater Surveillance for Multiple Pathogenic Yeasts. **Journal of Fungi**. 2025; 11(2):86. https://doi.org/10.3390/jof11020086
+
 - Biofilms on urban aquatic plastic pollution as a reservoir for pathogenic yeasts. **Journal of Water and Health.** 2024 Oct https://doi.org/10.2166/wh.2024.133.
 
 - Whole genome molecular analysis of respiratory syncytial virus pre and during the Covid-19 pandemic in free state province, South Africa. **Virus Res.** 2024 Jun 26:199421. doi: 10.1016/j.virusres.2024.199421. Epub ahead of print. PMID: 38942296.
