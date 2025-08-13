@@ -228,6 +228,10 @@ samples for infant HIV diagnostics.
 
 # Peer reviewed publications
 
+- Identification of arboviruses in mosquito populations in KwaZulu-Natal, South Africa and the first record of *Wyeomyia mitchellii* in the Old World. **PLOS Neglected Tropical Diseases**. 2025. 19(8): e0013093. https://doi.org/10.1371/journal.pntd.0013093
+
+
+
 - Hepatitis B seroprevalence among HIV-positive adults in the Free State, South Africa. **S Afr J HIV Med.** 2025; 26(1), a1654. https://doi.org/10.4102/sajhivmed.v26i1.1654
 
 - Culture-Dependent and -Independent Wastewater Surveillance for Multiple Pathogenic Yeasts. **Journal of Fungi**. 2025; 11(2):86. https://doi.org/10.3390/jof11020086
