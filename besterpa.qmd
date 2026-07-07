@@ -7,9 +7,9 @@ cvfont: raleway #texlive fonts like raleway,fetamont,gillius,comfortaa
 cvcolor: 
   main: '1c2841' #'006666'
   accent: '36454F' #'CC5500'
-jobtitle: Passionate about interdiciplanary science
+jobtitle: Passionate about interdisciplinary science
 sidebar:
-  image: portrait.jpg
+  image: portrait_cartoon.jpeg
   bullets:
     - Bloemfontein, South Africa
     - South African
@@ -39,7 +39,7 @@ sidebar:
             num: 0.5
         - text: Quarto
           exp: 
-            text: "1 yrs"
+            text: "4 yrs"
             num: 0.1
         - text: Analysis of NGS data
           exp:
@@ -62,7 +62,7 @@ sidebar:
             num: 1
         - text: Oxford NanoPore sequencing
           exp: 
-            text: "3 yrs"
+            text: "6 yrs"
             num: 0.6
         - text: IonTorrent sequencing
           exp: 
@@ -167,7 +167,7 @@ tibble::tribble(
     
 "Senior Medical Scientist", "National Health Laboratory Services", "Aug 2021 - Present", "I am a practising medical scientist in the Division of Virology where I am involved with both diagnostics and research.",
 
-"Medical Scientist", "National Health Laboratory Services", "Jan 2012 - Jul 2021", "",
+"Medical Scientist", "National Health Laboratory Services", "Jan 2015 - Jul 2021", "",
 
 "Assistant Researcher", "Dept. Medical Virology", "Jan 2011 - Dec 2014", "During this time I developed an HIV drug resistance assay which was later implemented",
 
@@ -190,11 +190,20 @@ tibble::tribble(
 
 "Sequencing, ecology and surveillance", "Data generation and analysis. Sequencing, bash, python", "The ability to generate sequencing data and the analysis of this data allows me opportunities to collaborate in projects such as viral surveillance, the interesting viruses and microbes occurring in infant guts, fungi in urban water and all kinds of other sequencing projects.",
 
-"Hepatitis B infections", "Python, data wrangling, infographics, statistics, R", "In the crazy world of data, we are analyzing patient laboratory test results about Hepatitis B infections and in part trying to show how this very infectious but preventable virus is neglected.  Previously we also worked with some friendly people from Oxford where we did a meta-analysis on the serology of hepatitis B in Africa, and we made an interactive dashboard of this (https://hbv-geo.shinyapps.io/oxafricahbv/).",
+"Hepatitis, HIV and other co-infections", "Python, data wrangling, infographics, statistics, R", "In the crazy world of data, we are analyzing patient laboratory test results about Hepatitis B infections and in part trying to show how this very infectious but preventable virus is neglected.  Also a meta-analysis on the serology of hepatitis B in Africa, and we made an interactive dashboard of this (https://hbv-geo.shinyapps.io/oxafricahbv/).",
 
 
-"A microgrid in an energy crisis", "Influxdb, telegraf, grafana", "Working with the brilliant people at the GRRG (Grid Related Research Group, UFS) and the eResearch High Performance Computing unit, we developed a dashboard showing real-time power consumption and grid frequency (https://s.ern.ufs.ac.za/grrg) for both the Bloemfontein as well as QwaQwa campuses. We are using data to manage resource planning for power demand and, together with the ICDF (Interdisciplinary Centre for Digital Futures), are trying to understand how social layers and the usage and understanding of electricity influence each other."
+"A microgrid in an energy crisis", "Influxdb, telegraf, grafana", "Working with the brilliant people at the GRRG (Grid Related Research Group, UFS) and the eResearch High Performance Computing unit, we developed a dashboard showing real-time power consumption and grid frequency (https://s.ern.ufs.ac.za/grrg) for both the Bloemfontein as well as QwaQwa campuses. We are using data to manage resource planning for power demand and, together with the ICDF (Interdisciplinary Centre for Digital Futures), are trying to understand how social layers and the usage and understanding of electricity influence each other.",
 
+"Pathogen Research Laboratory", "Screening, surveillance, metagenomics", "\\begin{itemize}
+  \\item Screening of mosquitoes for arboviruses in South Africa.
+  \\item Screening cattle and sheep sera for evidence of infection with arboviruses identified in Bloemfontein.
+  \\item Next Generation Sequencing (NGS) for complete genome determination of arboviruses and zoonotic pathogens.
+  \\item Development of MinION sequencing technique.
+  \\item Bayesian phylogeography of global Crimean-Congo hemorrhagic fever virus isolates.
+  \\item Arboviruses as a cause of neurological disease in humans.
+  \\item Detection and whole genome characterization of Jingmen tick virus from wild-caught ticks (Acari: Ixodidae) in the Free State and Eastern Cape Province South Africa.
+\\end{itemize}"
 ) |>
     cvproj(what = "what", role = "role", items = "items")
 
@@ -206,6 +215,14 @@ tibble::tribble(
 
 \begin{description}
   \item$\bullet$ Main and co- supervision for Honours and M. students.
+    \item\subitem$\circ$ Co-supervisor for M.Med.Sc student. Detection and characterization of alphaviruses in the 
+Bloemfontein region, Free State.
+    \item\subitem$\circ$ Co-supervisor for M.Med.Sc student. Development of Non-Species-Specific ELISA and RT-qPCR for Serosurveillance and
+Detection of Crimean-Congo Haemorrhagic Fever Virus.
+    \item\subitem$\circ$ Collaborator on Ph.D project. Circulation and characterization of known and novel orthonairoviruses transmitted by ixodid ticks in three provinces of South Africa.
+    \item\subitem$\circ$ Collaborator on Ph.D project. Genomic characterization of Mycobacterium spp. Isolated from cattle using long-read Oxford nanopore sequencing.
+    \item\subitem$\circ$ Collaborator on Ph.D project. Determination of tick diversity and screening for viral infections in ticks of livestock from the Eastern Cape and Free State Provinces of South Africa.
+    \item\subitem$\circ$ Co-supervisor (Norwegian University of life sciences) M.Sc student. Forecasting load in an operational centralised microgrid.
     \item\subitem$\circ$ Main supervisor for Honours student developing an HIV integrase drug resistance assay.
     \item\subitem$\circ$ Equally shared supervisor for two Honours students on: A simple and rapid approach to
 prepare Sindbis and West Nile viral RNA controls for differentiation between positive samples
